@@ -4,20 +4,24 @@
 
 .orientation_1 {
   position: absolute;
-  transform: rotate(-16deg);
-  -ms-transform: rotate(-16deg);
-  -webkit-transform: rotate(-16deg);
+  margin-top: 84px; 
+  transform: rotate(-12deg);
+  -ms-transform: rotate(-12deg);
+  -webkit-transform: rotate(-12deg);
 }
 
 .orientation_2 {
   position: absolute;
-  transform: rotate(-8deg);
-  -ms-transform: rotate(-8deg);
-  -webkit-transform: rotate(-8deg);
+  margin-top: 42px;
+  margin-left: -28px;
+  transform: rotate(-6deg);
+  -ms-transform: rotate(-6deg);
+  -webkit-transform: rotate(-6deg);
 }
 
 .orientation_3 {
   position: absolute;
+  margin-left: -56px;
   transform: rotate(0deg);
   -ms-transform: rotate(0deg);
   -webkit-transform: rotate(0deg);
